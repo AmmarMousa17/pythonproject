@@ -35,6 +35,5 @@ forrest = media.Movie(
 
 movies = [beautiful_mind, irretional_man, match_point, clash, theory, forrest]
 """make a list  of films"""
-
-fresh_tomatoes.open_movies_page(movies)
 """open movie function in fresh tomatoes takes one argument as a list"""
+fresh_tomatoes.open_movies_page(movies)
