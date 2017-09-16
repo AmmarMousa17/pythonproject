@@ -1,4 +1,3 @@
-
 # pythonproject
 #run python on your computer
 #run entertainment_center.py to show movies trailer
